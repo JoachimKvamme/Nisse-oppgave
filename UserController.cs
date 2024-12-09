@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Nisse_oppgave.Models;
 
@@ -73,6 +74,36 @@ namespace Nisse_oppgave
             }
         }
     }
+
+    public GoodAndBadUsers Gift(GoodAndBadUsers goodAndBadUsers) {
+        
+        Random random = new Random();
+        foreach (var item in goodAndBadUsers.BadUser)
+        {
+            
+            int chance = random.Next(0,100);
+            if (chance < 10) {
+                Console.WriteLine(item.Name + " ble tatt av Gryla!");
+                item.Gift = "Gryla";
+
+            }else {
+                Console.WriteLine(item.Name + " fikk kull til jul");
+            }
+
+
+        }
+
+        foreach (var item in goodAndBadUsers.GoodUser)
+        {
+         int chance = random.Next(0,100);
+         switch (chance)
+         {
+            case int i when i > 0 && i > 20:
+            default:
+         }   
+        }
+
+        return goodAndBadUsers;
     }
-}
-    
+}}
+   

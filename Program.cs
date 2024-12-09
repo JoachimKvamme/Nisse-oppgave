@@ -44,7 +44,7 @@ class Program
 
         GoodAndBadUsers goodAndBadUsers = userController.GoodOrBadSorter(users);
 
-        userController.Gryla(goodAndBadUsers);
+        userController.Gift(goodAndBadUsers);
 
     }
 

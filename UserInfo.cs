@@ -15,5 +15,6 @@ namespace Nisse_oppgave
         public string[] MusicGenres { get; set; }
         public string HomeAdress { get; set; }
         public string CarModel { get; set; }
+        public string Gift {get; set;}
     }
 }
