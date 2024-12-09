@@ -1,0 +1,15 @@
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.AssemblyInfoInputs.cache
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.AssemblyInfo.cs
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.csproj.CoreCompileInputs.cache
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.sourcelink.json
+C:\Users\joach\Desktop\Nisse-oppgave\bin\Debug\net8.0\Nisse-oppgave.exe
+C:\Users\joach\Desktop\Nisse-oppgave\bin\Debug\net8.0\Nisse-oppgave.deps.json
+C:\Users\joach\Desktop\Nisse-oppgave\bin\Debug\net8.0\Nisse-oppgave.runtimeconfig.json
+C:\Users\joach\Desktop\Nisse-oppgave\bin\Debug\net8.0\Nisse-oppgave.dll
+C:\Users\joach\Desktop\Nisse-oppgave\bin\Debug\net8.0\Nisse-oppgave.pdb
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.dll
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\refint\Nisse-oppgave.dll
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.pdb
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\Nisse-oppgave.genruntimeconfig.cache
+C:\Users\joach\Desktop\Nisse-oppgave\obj\Debug\net8.0\ref\Nisse-oppgave.dll
