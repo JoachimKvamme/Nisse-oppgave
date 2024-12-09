@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "52e1373e-4635-448c-8338-d0a98cbea488",
+    "name": "Elizabeth",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["New Wave", "Funk", "Country"],
+    "homeAdress": "Abels gate 61",
+    "carModel": "Nissan 370Z"
+  },
+  {
+    "id": "829b5eda-c7dd-4009-91a3-dda1b0f77ee2",
+    "name": "Matthew",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["New Wave", "Jazz", "Bossa Nova"],
+    "homeAdress": "Bredalsmarken 48",
+    "carModel": "Chevrolet Malibu"
+  },
+  {
+    "id": "cedbc8ff-e7f7-4d9d-b8a9-57ee2d5c8fc0",
+    "name": "Ella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Shoegaze", "Industrial", "Funk"],
+    "homeAdress": "Fortunen 181",
+    "carModel": "Nissan Maxima"
+  },
+  {
+    "id": "95301dd8-d00b-4f9d-80eb-40b1ffe9777d",
+    "name": "Layla",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Bossa Nova", "Calypso", "Reggaeton"],
+    "homeAdress": "Absalon Beyers gate 104",
+    "carModel": "Subaru Impreza"
+  },
+  {
+    "id": "289a7735-c7ff-4cbd-9d0a-ab6b80ccca0e",
+    "name": "Joseph",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["R\u0026B", "Electro", "Calypso"],
+    "homeAdress": "Finneg\u00E5rdsgaten 169",
+    "carModel": "Volkswagen Passat"
+  },
+  {
+    "id": "aa4c0e2c-eeef-411d-b114-a464c6d340cc",
+    "name": "Samuel",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Flamenco", "Salsa", "Indie"],
+    "homeAdress": "Baglergaten 125",
+    "carModel": "Mazda3"
+  },
+  {
+    "id": "84d3d36b-14a5-4191-9e1e-dd152384af0d",
+    "name": "Thomas",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Flamenco", "Soul", "Jazz"],
+    "homeAdress": "Arne Garborgs gate 120",
+    "carModel": "Chevrolet Malibu"
+  },
+  {
+    "id": "84e87b9d-da8b-4db4-b0fe-f7b160ef35b0",
+    "name": "Madison",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Dubstep", "Classical", "Gospel"],
+    "homeAdress": "Amalie Skrams vei 133",
+    "carModel": "Ford Fiesta"
+  },
+  {
+    "id": "af880703-6071-4d74-8908-1b7abc255add",
+    "name": "Eliana",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Dancehall", "Dubstep", "Reggae"],
+    "homeAdress": "Blaauws vei 72",
+    "carModel": "Mercedes-Benz E-Class"
+  },
+  {
+    "id": "1a88e8de-89ff-4d5b-a42d-2aaa85c181e4",
+    "name": "Hazel",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Reggae", "World Music", "Hip Hop"],
+    "homeAdress": "Fj\u00F8sangerveien 77",
+    "carModel": "Kia Stinger"
+  },
+  {
+    "id": "09e1ce7b-b14b-4a25-a307-8002ab31acc4",
+    "name": "Aurora",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["World Music", "New Wave", "Bluegrass"],
+    "homeAdress": "Bispengsgaten 52",
+    "carModel": "Ford Mustang"
+  },
+  {
+    "id": "25c3bf26-9d3e-4490-9b17-e299df7b2617",
+    "name": "Matthew",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Gospel", "Techno", "Pop"],
+    "homeAdress": "Bispengsgaten 52",
+    "carModel": "Lexus ES"
+  },
+  {
+    "id": "68005f3c-22b0-465f-bcf4-84e2da07a4db",
+    "name": "Mila",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Trance", "Swing", "Reggaeton"],
+    "homeAdress": "B\u00F8hmergaten 80",
+    "carModel": "Nissan Altima"
+  },
+  {
+    "id": "03238812-c8ae-4d69-ba97-b78734bc4f60",
+    "name": "Mia",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Grunge", "Bluegrass", "Ambient"],
+    "homeAdress": "Bredalsmarken 138",
+    "carModel": "Lexus ES"
+  },
+  {
+    "id": "d171993e-e305-4a94-b33d-cf9e60325231",
+    "name": "Everly",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Blues", "Reggaeton", "Rock"],
+    "homeAdress": "Fortunen 170",
+    "carModel": "Hyundai Elantra"
+  },
+  {
+    "id": "eceb3b6f-2338-4aba-ba80-3f86b71642e6",
+    "name": "Leo",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Punk", "Jazz", "Hip Hop"],
+    "homeAdress": "Amalie Skrams vei 150",
+    "carModel": "Chevrolet Malibu"
+  },
+  {
+    "id": "ab28662e-e51f-4990-97c5-efba661d29d6",
+    "name": "Nova",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Post-Punk", "Emo", "Classical"],
+    "homeAdress": "Bredsg\u00E5rden 113",
+    "carModel": "Ford Focus"
+  },
+  {
+    "id": "a6813c11-eae1-4458-a528-a1b1680cfb45",
+    "name": "Sofia",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["World Music", "Bossa Nova", "House"],
+    "homeAdress": "B\u00F8hmergaten 28",
+    "carModel": "Mercedes-Benz E-Class"
+  },
+  {
+    "id": "beb4fc3f-d23c-4672-801e-269ee67babeb",
+    "name": "Alexander",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Ska", "Emo", "Reggaeton"],
+    "homeAdress": "Damsg\u00E5rdsveien 141",
+    "carModel": "Alfa Romeo Giulia"
+  },
+  {
+    "id": "b2b9c416-bf2b-49b4-8ce2-898eaa9745f0",
+    "name": "Isaac",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Calypso", "Gospel", "House"],
+    "homeAdress": "Hans Hauges gate 2",
+    "carModel": "BMW 5 Series"
+  },
+  {
+    "id": "455bfbf4-7a99-4797-be0e-302dc375e3c0",
+    "name": "Elijah",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Folk", "Soul", "Afrobeat"],
+    "homeAdress": "Arnoldus Reimers\u0027 gate 166",
+    "carModel": "Nissan 370Z"
+  },
+  {
+    "id": "9ab72ae3-bda6-43f7-bcc3-c69d9b13cedd",
+    "name": "Charlotte",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Hip Hop", "Rock", "J-Pop"],
+    "homeAdress": "Asbj\u00F8rnsens gate 1",
+    "carModel": "Ford Focus"
+  },
+  {
+    "id": "adbd8d93-44d1-4a3f-a1fa-d030d3a255f2",
+    "name": "Aiden",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["World Music", "Rock", "Salsa"],
+    "homeAdress": "Asylplassen 123",
+    "carModel": "Ford Fiesta"
+  },
+  {
+    "id": "2f189666-aa7e-4dc5-a8ec-3ebda74d5d5c",
+    "name": "Christopher",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Ambient", "Afrobeat", "Post-Punk"],
+    "homeAdress": "Finneg\u00E5rdsgaten 200",
+    "carModel": "Mercedes-Benz SLK"
+  },
+  {
+    "id": "d53feda3-ec99-4c3d-b911-437f1edb2dc8",
+    "name": "Matthew",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Soul", "Salsa", "Techno"],
+    "homeAdress": "Kong Oscars gate 35",
+    "carModel": "Nissan Maxima"
+  },
+  {
+    "id": "d270383a-240b-48a4-a8c4-fc5cf82c2b98",
+    "name": "Everly",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Afrobeat", "J-Pop", "Swing"],
+    "homeAdress": "Christies gate 94",
+    "carModel": "BMW Z4"
+  },
+  {
+    "id": "c3154800-8b12-4210-b0dd-c1b324ff1bcd",
+    "name": "Sebastian",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Trip-Hop", "Classical", "Salsa"],
+    "homeAdress": "Hans Hauges gate 46",
+    "carModel": "Mercedes-Benz E-Class"
+  },
+  {
+    "id": "d413a774-1c65-4b1d-85c0-3ba58615e7b8",
+    "name": "Michael",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Dubstep", "Country", "Hardcore"],
+    "homeAdress": "Dreggsallmenningen 84",
+    "carModel": "BMW 5 Series"
+  },
+  {
+    "id": "0592727f-d9a0-4db7-8a1a-109178f23605",
+    "name": "Joseph",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Salsa", "Electro", "Techno"],
+    "homeAdress": "Absalon Beyers gate 12",
+    "carModel": "Ford Mustang"
+  },
+  {
+    "id": "05bac452-3e46-40b2-ae15-cefc2244abca",
+    "name": "Everly",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Bossa Nova", "Disco", "Ambient"],
+    "homeAdress": "Breist\u00F8len 49",
+    "carModel": "BMW 5 Series"
+  },
+  {
+    "id": "54912322-a497-44cb-a026-0e6afaed78ce",
+    "name": "Oliver",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Blues", "J-Pop", "Jazz"],
+    "homeAdress": "Fortunen 103",
+    "carModel": "Honda Civic"
+  },
+  {
+    "id": "02cc4cf2-eb3a-4fe8-a4c6-ab20cf2a30bd",
+    "name": "Sofia",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["K-Pop", "Disco", "Hardcore"],
+    "homeAdress": "Dreggsallmenningen 8",
+    "carModel": "Hyundai Sonata"
+  },
+  {
+    "id": "e19de42c-a4cb-46f7-9ac4-48b10ee2d4c9",
+    "name": "Jack",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Country", "Rock", "Dancehall"],
+    "homeAdress": "Asylplassen 32",
+    "carModel": "Toyota Corolla"
+  },
+  {
+    "id": "3e05584c-067e-464b-b617-fe68fb7ed8bc",
+    "name": "Evelyn",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["House", "Trip-Hop", "Shoegaze"],
+    "homeAdress": "Asbj\u00F8rnsens gate 138",
+    "carModel": "Honda Accord"
+  },
+  {
+    "id": "9cb547c0-24e6-420e-a61c-043adae9e2b8",
+    "name": "Ethan",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Soul", "Shoegaze", "Post-Punk"],
+    "homeAdress": "Christies gate 88",
+    "carModel": "Hyundai Elantra"
+  },
+  {
+    "id": "a42b5329-a9d6-455e-aa35-ee308993ef36",
+    "name": "Sebastian",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Salsa", "Electronic", "K-Pop"],
+    "homeAdress": "Kaigaten 28",
+    "carModel": "BMW Z4"
+  },
+  {
+    "id": "66efabe0-6c54-413d-a430-cb5d84b8937e",
+    "name": "Amelia",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Trip-Hop", "Electronic", "Reggaeton"],
+    "homeAdress": "B\u00F8hmergaten 138",
+    "carModel": "Chevrolet Spark"
+  },
+  {
+    "id": "c01c4d17-de41-4045-990b-8d06954bc95c",
+    "name": "Sofia",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Zouk", "Dubstep", "Shoegaze"],
+    "homeAdress": "All\u00E9gaten 149",
+    "carModel": "Alfa Romeo Giulia"
+  },
+  {
+    "id": "6d0682fe-20a7-40a7-b8bc-43ffc21457f9",
+    "name": "Lucy",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Calypso", "Bluegrass", "Gospel"],
+    "homeAdress": "Bredalsmarken 84",
+    "carModel": "Jaguar XF"
+  },
+  {
+    "id": "b43a7e27-f1d2-4a52-9b5d-3361622e6441",
+    "name": "Aiden",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Jazz", "Blues", "House"],
+    "homeAdress": "Fabrikkgaten 4",
+    "carModel": "Nissan Maxima"
+  },
+  {
+    "id": "5e930da7-a775-41ca-b136-899371b54967",
+    "name": "Ella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Shoegaze", "Trance", "Disco"],
+    "homeAdress": "Bontelabo 21",
+    "carModel": "Mercedes-Benz SLK"
+  },
+  {
+    "id": "a68894da-5dca-4c3c-b282-75e63aba3aba",
+    "name": "Dylan",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Ambient", "Zouk", "Punk"],
+    "homeAdress": "Arbeidergaten 67",
+    "carModel": "Porsche Panamera"
+  },
+  {
+    "id": "f1a78d50-f9cd-41d5-9953-61bd3a079684",
+    "name": "Joseph",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Opera", "Reggaeton", "Trip-Hop"],
+    "homeAdress": "Klosteret 117",
+    "carModel": "Mazda3"
+  },
+  {
+    "id": "86089913-0a6f-4a8f-8420-1b620efbc7ff",
+    "name": "Scarlett",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Latin", "House", "Opera"],
+    "homeAdress": "Bankgaten 167",
+    "carModel": "Audi A6"
+  },
+  {
+    "id": "59c0a905-b6c8-43ec-8ea2-b0e433655c20",
+    "name": "Stella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Punk", "Blues", "Reggae"],
+    "homeAdress": "Arnoldus Reimers\u0027 gate 25",
+    "carModel": "Nissan Maxima"
+  },
+  {
+    "id": "94919e90-9ae6-4195-9c7e-609d5767c262",
+    "name": "Gabriel",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Metal", "Flamenco", "Calypso"],
+    "homeAdress": "Bispengsgaten 35",
+    "carModel": "Kia Stinger"
+  },
+  {
+    "id": "a4351b07-8bfd-4953-adbc-33245ee9eac4",
+    "name": "Matthew",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Disco", "Gospel", "House"],
+    "homeAdress": "Abels gate 183",
+    "carModel": "Chevrolet Camaro"
+  },
+  {
+    "id": "7fc10c94-e255-49b3-8965-615f5ed211da",
+    "name": "Stella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Jazz", "New Wave", "Bluegrass"],
+    "homeAdress": "Arne Garborgs gate 47",
+    "carModel": "Chevrolet Spark"
+  },
+  {
+    "id": "87ebfab0-3d1f-4875-b335-90c51880a694",
+    "name": "Jayden",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Dubstep", "Salsa", "Bluegrass"],
+    "homeAdress": "Asbj\u00F8rnsens gate 67",
+    "carModel": "Ford Focus"
+  },
+  {
+    "id": "67e24f79-b03c-4670-a1be-1dcc33d44ad1",
+    "name": "Zoey",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Bluegrass", "Bossa Nova", "Rock"],
+    "homeAdress": "Breiviksveien 194",
+    "carModel": "Hyundai Sonata"
+  },
+  {
+    "id": "108824ea-246b-4863-992d-325b0d24e959",
+    "name": "Lucy",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Soul", "J-Pop", "Merengue"],
+    "homeAdress": "Hans Hauges gate 4",
+    "carModel": "Porsche Panamera"
+  },
+  {
+    "id": "79fbafc3-c711-4c4f-8f47-8e40e14bfd2f",
+    "name": "Ezra",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Zouk", "Flamenco", "Dubstep"],
+    "homeAdress": "Armauer Hansens vei 66",
+    "carModel": "Audi A6"
+  },
+  {
+    "id": "ce53803f-ee3b-450f-8efc-9e401c8ac547",
+    "name": "Zoe",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Techno", "Indie", "Trip-Hop"],
+    "homeAdress": "Blaauws vei 101",
+    "carModel": "Alfa Romeo Giulia"
+  },
+  {
+    "id": "5da44d93-72c7-4a7a-b1bc-c9f82385b2d5",
+    "name": "Charles",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Metal", "Rock", "Shoegaze"],
+    "homeAdress": "Bispengsgaten 134",
+    "carModel": "Chevrolet Camaro"
+  },
+  {
+    "id": "97d50e93-6b6b-4f47-b380-2508cedd9bbe",
+    "name": "Olivia",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Folk", "Ska", "Shoegaze"],
+    "homeAdress": "Fabrikkgaten 115",
+    "carModel": "Volvo S60"
+  },
+  {
+    "id": "e5552daa-886e-4c49-878d-ce3c5ddc37b8",
+    "name": "John",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Swing", "Jazz", "Flamenco"],
+    "homeAdress": "Finneg\u00E5rdsgaten 79",
+    "carModel": "Mazda3"
+  },
+  {
+    "id": "3f592dfc-302a-4de1-8d1d-a8e151ad060c",
+    "name": "Evelyn",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Punk", "Afrobeat", "Ambient"],
+    "homeAdress": "Haugeveien 118",
+    "carModel": "Kia Optima"
+  },
+  {
+    "id": "fdaffc30-23da-4125-a6b1-e735e2e64602",
+    "name": "Stella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Bluegrass", "Hardcore", "Zouk"],
+    "homeAdress": "Asbj\u00F8rnsens gate 121",
+    "carModel": "Kia Stinger"
+  },
+  {
+    "id": "b18d552c-841a-4760-979e-e00979e17f7d",
+    "name": "Riley",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Dancehall", "Classical", "Country"],
+    "homeAdress": "Arne Garborgs gate 128",
+    "carModel": "Chevrolet Malibu"
+  },
+  {
+    "id": "a422193f-38c4-40a9-be3c-dfd0c4ddc380",
+    "name": "Isla",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Disco", "Trip-Hop", "Folk"],
+    "homeAdress": "Aad Gjelles gate 95",
+    "carModel": "Chevrolet Cruze"
+  },
+  {
+    "id": "37e1fafa-1d65-4bfb-bbe0-f3ecb01bae18",
+    "name": "Elizabeth",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Gospel", "Shoegaze", "House"],
+    "homeAdress": "Bradbenken 193",
+    "carModel": "Honda Accord"
+  },
+  {
+    "id": "750cb2a1-26f1-4c1c-b006-e699b84d4d01",
+    "name": "Aiden",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Dancehall", "Industrial", "Electronic"],
+    "homeAdress": "Breiviksveien 56",
+    "carModel": "Alfa Romeo Giulia"
+  },
+  {
+    "id": "9b13cdfd-249d-47c7-bc38-935641ac6796",
+    "name": "Zoe",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Electronic", "World Music", "Soul"],
+    "homeAdress": "Absalon Beyers gate 198",
+    "carModel": "Mercedes-Benz C-Class"
+  },
+  {
+    "id": "1dd175f8-1c1a-4323-a8b2-931280d0852a",
+    "name": "David",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Soul", "World Music", "Reggaeton"],
+    "homeAdress": "Bryggen 7",
+    "carModel": "BMW 3 Series"
+  },
+  {
+    "id": "9dc949ae-9a7e-4eb1-9541-b9dbdf411fbc",
+    "name": "Maverick",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Merengue", "K-Pop", "House"],
+    "homeAdress": "Damsg\u00E5rdsveien 35",
+    "carModel": "Honda Fit"
+  },
+  {
+    "id": "4dac0098-3087-4f25-884c-9b84bc7df6d2",
+    "name": "Matthew",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["K-Pop", "Industrial", "Gospel"],
+    "homeAdress": "All\u00E9gaten 39",
+    "carModel": "Ford Mustang"
+  },
+  {
+    "id": "40cae409-d27b-41ef-b405-5120681d1338",
+    "name": "Emily",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Post-Punk", "Gospel", "Rock"],
+    "homeAdress": "Christies gate 143",
+    "carModel": "Honda Fit"
+  },
+  {
+    "id": "a8d9f4a3-20c6-4e5c-b2db-5b82504e3206",
+    "name": "Josiah",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Techno", "R\u0026B", "Latin"],
+    "homeAdress": "Arne Garborgs gate 153",
+    "carModel": "Volkswagen Jetta"
+  },
+  {
+    "id": "74210b3e-fdc4-4645-8771-e069901bd6c2",
+    "name": "Hannah",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["World Music", "Jazz", "Latin"],
+    "homeAdress": "Kaigaten 86",
+    "carModel": "Chevrolet Spark"
+  },
+  {
+    "id": "4329f7d1-f208-43e8-803e-bb0e7486648a",
+    "name": "Mila",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Industrial", "Gospel", "Swing"],
+    "homeAdress": "Fabrikkgaten 179",
+    "carModel": "Audi A4"
+  },
+  {
+    "id": "0931a0bf-1c9f-426f-91d2-c55e2f9d3332",
+    "name": "Madison",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Gospel", "Hip Hop", "Grunge"],
+    "homeAdress": "Asbj\u00F8rnsens gate 86",
+    "carModel": "Toyota Yaris"
+  },
+  {
+    "id": "3ae8449a-b97b-43b8-b5fe-9adf1a1453fe",
+    "name": "Addison",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Reggae", "Industrial", "Techno"],
+    "homeAdress": "Asbj\u00F8rnsens gate 183",
+    "carModel": "Ford Fiesta"
+  },
+  {
+    "id": "ca10081f-0a1a-4793-b089-87fe8629cb01",
+    "name": "Jackson",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Afrobeat", "Ambient", "Jazz"],
+    "homeAdress": "Christian Michelsens gate 173",
+    "carModel": "Ford Fiesta"
+  },
+  {
+    "id": "2dbff4e6-e386-4427-a9bf-ae6f0eaec840",
+    "name": "Lily",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Dancehall", "Opera", "Post-Punk"],
+    "homeAdress": "Fabrikkgaten 55",
+    "carModel": "Kia Forte"
+  },
+  {
+    "id": "bc634d75-37c8-4655-8570-2a2cc7da4249",
+    "name": "Asher",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Zouk", "Classical", "Country"],
+    "homeAdress": "Allehelgens gate 44",
+    "carModel": "Mercedes-Benz C-Class"
+  },
+  {
+    "id": "b18de32b-ba47-43cd-8a07-8109112e8e6b",
+    "name": "Leah",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Soul", "Hardcore", "Emo"],
+    "homeAdress": "Amalie Skrams vei 136",
+    "carModel": "Honda Civic"
+  },
+  {
+    "id": "93ec78d7-d391-4a2f-96ab-9cddefb35b75",
+    "name": "Noah",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Punk", "Dancehall", "Reggae"],
+    "homeAdress": "Adolph Bergs vei 27",
+    "carModel": "Toyota Supra"
+  },
+  {
+    "id": "29f19ff1-0e24-4c28-a8a8-67792b1fa75d",
+    "name": "James",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["House", "Opera", "Soul"],
+    "homeAdress": "Allehelgens gate 2",
+    "carModel": "Volkswagen Passat"
+  },
+  {
+    "id": "7bf7643d-e9a2-4909-91fa-8baad7617a40",
+    "name": "Sofia",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Ska", "Grunge", "Opera"],
+    "homeAdress": "Christian Michelsens gate 6",
+    "carModel": "Mazda MX-5 Miata"
+  },
+  {
+    "id": "de6b4e03-1632-41a9-831f-2e89088bbc17",
+    "name": "Aiden",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Soul", "J-Pop", "Ambient"],
+    "homeAdress": "Adolph Bergs vei 72",
+    "carModel": "Toyota Supra"
+  },
+  {
+    "id": "a820db6c-ef56-48bd-9244-25e249688226",
+    "name": "Julian",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Synthpop", "Reggaeton", "Bossa Nova"],
+    "homeAdress": "Hans Hauges gate 182",
+    "carModel": "BMW 5 Series"
+  },
+  {
+    "id": "e3b7b580-be4c-41b0-876c-55e805ed1c0f",
+    "name": "Ella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Swing", "Ska", "Funk"],
+    "homeAdress": "Bankgaten 137",
+    "carModel": "Ford Mustang"
+  },
+  {
+    "id": "8c2d2800-2aba-47df-9096-fca900d4f601",
+    "name": "Charlotte",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Ambient", "Pop", "Jazz"],
+    "homeAdress": "Allehelgens gate 49",
+    "carModel": "BMW Z4"
+  },
+  {
+    "id": "226d0038-409a-41f5-8122-9bc31795aa44",
+    "name": "Emilia",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Shoegaze", "Metal", "Soul"],
+    "homeAdress": "Hollendergaten 45",
+    "carModel": "Chevrolet Cruze"
+  },
+  {
+    "id": "fe866cb3-e71a-44d3-85e0-99ed80c2878e",
+    "name": "Avery",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Swing", "Ska", "Merengue"],
+    "homeAdress": "C. Sundts gate 181",
+    "carModel": "Audi TT"
+  },
+  {
+    "id": "c1cd4323-f9c0-4481-8fbb-cd942818863b",
+    "name": "Layla",
+    "toiletPaperOutward": false,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Reggaeton", "Bossa Nova", "Grunge"],
+    "homeAdress": "Fabrikkgaten 64",
+    "carModel": "Mazda3"
+  },
+  {
+    "id": "d61e94ac-9ed4-4fb4-b565-406c09974b9f",
+    "name": "John",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Merengue", "Folk", "Punk"],
+    "homeAdress": "Breiviksveien 162",
+    "carModel": "Honda Civic"
+  },
+  {
+    "id": "39ccd3aa-2562-4f90-80c2-0daddf9b36ae",
+    "name": "Stella",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Industrial", "Latin", "Afrobeat"],
+    "homeAdress": "Asylplassen 89",
+    "carModel": "Honda Fit"
+  },
+  {
+    "id": "6972c158-852b-42cf-a633-80ef4d273f1c",
+    "name": "Aria",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Trance", "Country", "Opera"],
+    "homeAdress": "Allehelgens gate 143",
+    "carModel": "Chrysler 300"
+  },
+  {
+    "id": "12971dac-1121-4951-8ba1-438ae0209a03",
+    "name": "Harper",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Afrobeat", "Punk", "Flamenco"],
+    "homeAdress": "Armauer Hansens vei 27",
+    "carModel": "BMW 5 Series"
+  },
+  {
+    "id": "7908b196-7ab3-417c-9a56-2f9cce53dad6",
+    "name": "Ellie",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Synthpop", "Opera", "Jazz"],
+    "homeAdress": "Engen 113",
+    "carModel": "BMW 3 Series"
+  },
+  {
+    "id": "99ec6260-c2ec-4f51-a359-21ded8b2cdfc",
+    "name": "Julian",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Bluegrass", "K-Pop", "Funk"],
+    "homeAdress": "Arbeidergaten 75",
+    "carModel": "Audi A4"
+  },
+  {
+    "id": "42bb64a3-b245-4db5-90a8-ecc61657c481",
+    "name": "Elijah",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Bluegrass", "Classical", "Shoegaze"],
+    "homeAdress": "Kirkegaten 177",
+    "carModel": "Ford Focus"
+  },
+  {
+    "id": "c28e7631-3b68-4ebd-92cc-759ebf0295fb",
+    "name": "Mila",
+    "toiletPaperOutward": false,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Ska", "Gospel", "Indie"],
+    "homeAdress": "Abels gate 53",
+    "carModel": "Chevrolet Impala"
+  },
+  {
+    "id": "a4735891-4a35-4798-8697-d81b29f12866",
+    "name": "William",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": true,
+    "musicGenres": ["Rock", "Post-Punk", "Grunge"],
+    "homeAdress": "Bryggen 101",
+    "carModel": "Hyundai Veloster"
+  },
+  {
+    "id": "e40655d7-7dfe-4cd9-89eb-5d0e893e5918",
+    "name": "Julian",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Hip Hop", "Synthpop", "Punk"],
+    "homeAdress": "Astrups vei 72",
+    "carModel": "Kia Forte"
+  },
+  {
+    "id": "f42da636-25d0-448c-9401-0433633444b0",
+    "name": "Evelyn",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Blues", "Classical", "Trip-Hop"],
+    "homeAdress": "Jonas Lies vei 100",
+    "carModel": "Ford Focus"
+  },
+  {
+    "id": "884a51b6-3656-451d-8701-f3028e8696ed",
+    "name": "Gianna",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": true,
+    "musicGenres": ["Indie", "Reggaeton", "Dubstep"],
+    "homeAdress": "Dreggsallmenningen 114",
+    "carModel": "Volkswagen Passat"
+  },
+  {
+    "id": "1b83528f-1ffe-4dd3-a7bc-d1f696778ac7",
+    "name": "Hazel",
+    "toiletPaperOutward": true,
+    "donatesToCharity": true,
+    "washesHands": false,
+    "musicGenres": ["Ska", "Salsa", "Techno"],
+    "homeAdress": "Arbeidergaten 140",
+    "carModel": "Nissan Maxima"
+  },
+  {
+    "id": "81cd46f2-c02a-4fdf-b4fa-a0ade8bd0b81",
+    "name": "Ethan",
+    "toiletPaperOutward": true,
+    "donatesToCharity": false,
+    "washesHands": false,
+    "musicGenres": ["Indie", "Ska", "Post-Punk"],
+    "homeAdress": "Breist\u00F8len 62",
+    "carModel": "Ford Fiesta"
+  }
+]
