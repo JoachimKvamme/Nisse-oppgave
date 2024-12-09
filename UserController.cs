@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Nisse_oppgave.Models;
 
 namespace Nisse_oppgave
 {
@@ -10,7 +11,7 @@ namespace Nisse_oppgave
         public string[] GoodCarList { get; set; }
         public string[] GoodMusicList{get; set;}
         public string[] GoodStreetNames { get; set; }
-        public void GoodOrBadSorter(List<UserInfo> users) {
+        public GoodAndBadUsers GoodOrBadSorter(List<UserInfo> users) {
             List<UserInfo> goodUser = new();
             List<UserInfo> badUser = new();
 
@@ -29,6 +30,14 @@ namespace Nisse_oppgave
                 // if(GoodMusicList.Contains(user.MusicGenres)){
 
                 // }
+
+                foreach (var item in user.MusicGenres)
+                {
+                    if(GoodMusicList.Contains(item)){
+                        score += 1;
+                    }
+                    
+                }
                 if(GoodStreetNames.Contains(user.HomeAdress)) {
                     score +=1;
                 }
@@ -47,6 +56,23 @@ namespace Nisse_oppgave
             {
                 Console.WriteLine($"Bad: {item.Name}");
             }
+            GoodAndBadUsers goodAndBadUsers = new();
+            goodAndBadUsers.GoodUser = goodUser;
+            goodAndBadUsers.BadUser = badUser;
+            return goodAndBadUsers;
+        }
+    
+
+    public void Gryla(GoodAndBadUsers badUsers) {
+        Random random = new Random();
+        foreach (var item in badUsers.BadUser)
+        {
+            int chance = random.Next(0,100);
+            if (chance < 10) {
+                Console.WriteLine(item.Name + " ble tatt av Gryla!");
+            }
         }
     }
+    }
 }
+    

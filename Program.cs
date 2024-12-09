@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using Nisse_oppgave.Models;
 
 namespace Nisse_oppgave;
 
@@ -41,7 +42,10 @@ class Program
         
         List<UserInfo> users = JsonSerializer.Deserialize<List<UserInfo>>(jsonString, options);
 
-        userController.GoodOrBadSorter(users);
+        GoodAndBadUsers goodAndBadUsers = userController.GoodOrBadSorter(users);
+
+        userController.Gryla(goodAndBadUsers);
+
     }
 
     }
