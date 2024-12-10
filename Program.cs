@@ -44,9 +44,12 @@ class Program
 
         GoodAndBadUsers goodAndBadUsers = userController.GoodOrBadSorter(users);
 
-        
+
 
         userController.Gift(goodAndBadUsers);
+
+        string json = JsonSerializer.Serialize(goodAndBadUsers);
+        File.WriteAllText("finished_list.json", json);
 
     }
 
