@@ -64,16 +64,6 @@ namespace Nisse_oppgave
         }
     
 
-    public void Gryla(GoodAndBadUsers badUsers) {
-        Random random = new Random();
-        foreach (var item in badUsers.BadUser)
-        {
-            int chance = random.Next(0,100);
-            if (chance < 10) {
-                Console.WriteLine(item.Name + " ble tatt av Gryla!");
-            }
-        }
-    }
 
     public GoodAndBadUsers Gift(GoodAndBadUsers goodAndBadUsers) {
         
@@ -96,23 +86,33 @@ namespace Nisse_oppgave
 
         foreach (var item in goodAndBadUsers.GoodUser)
         {
-         int chance = random.Next(0,100);
+         int chance = random.Next(0,10);
          switch (chance)
          {
-            case int i when i > 0 && i > 20:
+            case 0:
+            case 1:
                 Console.WriteLine(item.Name + " får gave av trealven.");
+                item.Elf = "Trealven";
                 break;
-            case int i when i > 20 && i > 40:
+            case 2:
+            case 3:
                 Console.WriteLine(item.Name + " får gave av sømalven.");
+                item.Elf = "Sømalven";
                 break;
-            case int i when i > 40 && i > 60:
+            case 4:
+            case 5:
                 Console.WriteLine(item.Name + " får gave av strømalven.");
+                item.Elf = "Strømalven";
                 break;
-            case int i when i > 60 && i > 80:
+            case 6:
+            case 7:
                 Console.WriteLine(item.Name + " får gave av smiealven.");
+                item.Elf = "Smiealven";
                 break;
-            case int i when i > 80 && i > 100:
+            case 8:
+            case 9:
                 Console.WriteLine(item.Name + " får gave av keramikkalven.");
+                item.Elf = "Keramikkalven";
                 break;
             default:
                 break;
