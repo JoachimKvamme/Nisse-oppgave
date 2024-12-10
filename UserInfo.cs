@@ -16,5 +16,6 @@ namespace Nisse_oppgave
         public string HomeAdress { get; set; }
         public string CarModel { get; set; }
         public string Gift {get; set;}
+        public string Elf { get; set; }
     }
 }

@@ -13,4 +13,6 @@ namespace Nisse_oppgave.Models
         public List<string> Gift {get; set;}
         public List<UserInfo> MyProperty { get; set; }
     }
+
+    
 }

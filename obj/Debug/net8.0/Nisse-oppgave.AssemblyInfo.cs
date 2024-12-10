@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nisse-oppgave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5490a89296fdb0640959568302731c87f15234ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+926499d0af42e8dec8ad392f2a4d60357e4de2f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nisse-oppgave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nisse-oppgave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

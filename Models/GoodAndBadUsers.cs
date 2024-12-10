@@ -8,9 +8,7 @@ namespace Nisse_oppgave.Models
     public class GoodAndBadUsers
     {
         public List<UserInfo> GoodUser { get; set; }
-        public List<UserInfo> BadUser {get; set;}
-        public List<UserInfo> Gryla {get; set;}
-        
+        public List<UserInfo> BadUser {get; set;}        
 
     }
 }

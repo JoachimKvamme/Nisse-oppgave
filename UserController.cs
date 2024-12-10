@@ -88,6 +88,7 @@ namespace Nisse_oppgave
 
             }else {
                 Console.WriteLine(item.Name + " fikk kull til jul");
+                item.Gift = "Kull";
             }
 
 
@@ -99,7 +100,22 @@ namespace Nisse_oppgave
          switch (chance)
          {
             case int i when i > 0 && i > 20:
+                Console.WriteLine(item.Name + " får gave av trealven.");
+                break;
+            case int i when i > 20 && i > 40:
+                Console.WriteLine(item.Name + " får gave av sømalven.");
+                break;
+            case int i when i > 40 && i > 60:
+                Console.WriteLine(item.Name + " får gave av strømalven.");
+                break;
+            case int i when i > 60 && i > 80:
+                Console.WriteLine(item.Name + " får gave av smiealven.");
+                break;
+            case int i when i > 80 && i > 100:
+                Console.WriteLine(item.Name + " får gave av keramikkalven.");
+                break;
             default:
+                break;
          }   
         }
 

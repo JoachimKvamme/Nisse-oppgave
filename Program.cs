@@ -44,6 +44,8 @@ class Program
 
         GoodAndBadUsers goodAndBadUsers = userController.GoodOrBadSorter(users);
 
+        
+
         userController.Gift(goodAndBadUsers);
 
     }
