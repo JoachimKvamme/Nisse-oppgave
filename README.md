@@ -13,7 +13,7 @@ Vi hadde litt problemer med å få samkjørt oss i begynnelsen pga sykdom og lig
 
 ### Laget av
 
-Steve - GruppeLeder, ansvarlig for deadlines, konfliktansvarlig
-Joachim - Github-ansvarlig
-Katrine - Ansvar for møtenotater
-(delvis) Oliver - Designansvarlig
+- Steve - GruppeLeder, ansvarlig for deadlines, konfliktansvarlig
+- Joachim - Github-ansvarlig
+- Katrine - Ansvar for møtenotater
+- (delvis) Oliver - Designansvarlig
