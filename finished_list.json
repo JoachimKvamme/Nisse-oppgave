@@ -9,8 +9,8 @@
       "MusicGenres": ["New Wave", "Funk", "Country"],
       "HomeAdress": "Abels gate 61",
       "CarModel": "Nissan 370Z",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "829b5eda-c7dd-4009-91a3-dda1b0f77ee2",
@@ -21,8 +21,8 @@
       "MusicGenres": ["New Wave", "Jazz", "Bossa Nova"],
       "HomeAdress": "Bredalsmarken 48",
       "CarModel": "Chevrolet Malibu",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "95301dd8-d00b-4f9d-80eb-40b1ffe9777d",
@@ -33,8 +33,8 @@
       "MusicGenres": ["Bossa Nova", "Calypso", "Reggaeton"],
       "HomeAdress": "Absalon Beyers gate 104",
       "CarModel": "Subaru Impreza",
-      "Gift": "Kj\u00F8kkenforkle",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "289a7735-c7ff-4cbd-9d0a-ab6b80ccca0e",
@@ -45,8 +45,8 @@
       "MusicGenres": ["R\u0026B", "Electro", "Calypso"],
       "HomeAdress": "Finneg\u00E5rdsgaten 169",
       "CarModel": "Volkswagen Passat",
-      "Gift": "Kj\u00F8kkenforkle",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "aa4c0e2c-eeef-411d-b114-a464c6d340cc",
@@ -57,8 +57,8 @@
       "MusicGenres": ["Flamenco", "Salsa", "Indie"],
       "HomeAdress": "Baglergaten 125",
       "CarModel": "Mazda3",
-      "Gift": "Verkt\u00F8ykasse",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "84d3d36b-14a5-4191-9e1e-dd152384af0d",
@@ -69,8 +69,8 @@
       "MusicGenres": ["Flamenco", "Soul", "Jazz"],
       "HomeAdress": "Arne Garborgs gate 120",
       "CarModel": "Chevrolet Malibu",
-      "Gift": "Fruktbolle",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "84e87b9d-da8b-4db4-b0fe-f7b160ef35b0",
@@ -81,8 +81,8 @@
       "MusicGenres": ["Dubstep", "Classical", "Gospel"],
       "HomeAdress": "Amalie Skrams vei 133",
       "CarModel": "Ford Fiesta",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "af880703-6071-4d74-8908-1b7abc255add",
@@ -93,8 +93,8 @@
       "MusicGenres": ["Dancehall", "Dubstep", "Reggae"],
       "HomeAdress": "Blaauws vei 72",
       "CarModel": "Mercedes-Benz E-Class",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "1a88e8de-89ff-4d5b-a42d-2aaa85c181e4",
@@ -105,7 +105,7 @@
       "MusicGenres": ["Reggae", "World Music", "Hip Hop"],
       "HomeAdress": "Fj\u00F8sangerveien 77",
       "CarModel": "Kia Stinger",
-      "Gift": "Gyngehest",
+      "Gift": null,
       "Elf": "Trealven"
     },
     {
@@ -117,8 +117,8 @@
       "MusicGenres": ["Gospel", "Techno", "Pop"],
       "HomeAdress": "Bispengsgaten 52",
       "CarModel": "Lexus ES",
-      "Gift": "Kj\u00F8kkenforkle",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "68005f3c-22b0-465f-bcf4-84e2da07a4db",
@@ -129,8 +129,8 @@
       "MusicGenres": ["Trance", "Swing", "Reggaeton"],
       "HomeAdress": "B\u00F8hmergaten 80",
       "CarModel": "Nissan Altima",
-      "Gift": "Keyboard",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "03238812-c8ae-4d69-ba97-b78734bc4f60",
@@ -141,8 +141,8 @@
       "MusicGenres": ["Grunge", "Bluegrass", "Ambient"],
       "HomeAdress": "Bredalsmarken 138",
       "CarModel": "Lexus ES",
-      "Gift": "Vase",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "d171993e-e305-4a94-b33d-cf9e60325231",
@@ -153,7 +153,7 @@
       "MusicGenres": ["Blues", "Reggaeton", "Rock"],
       "HomeAdress": "Fortunen 170",
       "CarModel": "Hyundai Elantra",
-      "Gift": "Dekorasjonspute",
+      "Gift": null,
       "Elf": "Str\u00F8malven"
     },
     {
@@ -165,8 +165,8 @@
       "MusicGenres": ["Punk", "Jazz", "Hip Hop"],
       "HomeAdress": "Amalie Skrams vei 150",
       "CarModel": "Chevrolet Malibu",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "ab28662e-e51f-4990-97c5-efba661d29d6",
@@ -177,8 +177,8 @@
       "MusicGenres": ["Post-Punk", "Emo", "Classical"],
       "HomeAdress": "Bredsg\u00E5rden 113",
       "CarModel": "Ford Focus",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "a6813c11-eae1-4458-a528-a1b1680cfb45",
@@ -189,7 +189,7 @@
       "MusicGenres": ["World Music", "Bossa Nova", "House"],
       "HomeAdress": "B\u00F8hmergaten 28",
       "CarModel": "Mercedes-Benz E-Class",
-      "Gift": "Verkt\u00F8ykasse",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -201,8 +201,8 @@
       "MusicGenres": ["Ska", "Emo", "Reggaeton"],
       "HomeAdress": "Damsg\u00E5rdsveien 141",
       "CarModel": "Alfa Romeo Giulia",
-      "Gift": "Senget\u00F8y",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "b2b9c416-bf2b-49b4-8ce2-898eaa9745f0",
@@ -213,8 +213,8 @@
       "MusicGenres": ["Calypso", "Gospel", "House"],
       "HomeAdress": "Hans Hauges gate 2",
       "CarModel": "BMW 5 Series",
-      "Gift": "Vase",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "455bfbf4-7a99-4797-be0e-302dc375e3c0",
@@ -225,8 +225,8 @@
       "MusicGenres": ["Folk", "Soul", "Afrobeat"],
       "HomeAdress": "Arnoldus Reimers\u0027 gate 166",
       "CarModel": "Nissan 370Z",
-      "Gift": "Verkt\u00F8ykasse",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "9ab72ae3-bda6-43f7-bcc3-c69d9b13cedd",
@@ -237,8 +237,8 @@
       "MusicGenres": ["Hip Hop", "Rock", "J-Pop"],
       "HomeAdress": "Asbj\u00F8rnsens gate 1",
       "CarModel": "Ford Focus",
-      "Gift": "Fruktbolle",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "adbd8d93-44d1-4a3f-a1fa-d030d3a255f2",
@@ -249,7 +249,7 @@
       "MusicGenres": ["World Music", "Rock", "Salsa"],
       "HomeAdress": "Asylplassen 123",
       "CarModel": "Ford Fiesta",
-      "Gift": "Verkt\u00F8ykasse",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -261,8 +261,8 @@
       "MusicGenres": ["Ambient", "Afrobeat", "Post-Punk"],
       "HomeAdress": "Finneg\u00E5rdsgaten 200",
       "CarModel": "Mercedes-Benz SLK",
-      "Gift": "Verkt\u00F8ykasse",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "d53feda3-ec99-4c3d-b911-437f1edb2dc8",
@@ -273,8 +273,8 @@
       "MusicGenres": ["Soul", "Salsa", "Techno"],
       "HomeAdress": "Kong Oscars gate 35",
       "CarModel": "Nissan Maxima",
-      "Gift": "Vase",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "d270383a-240b-48a4-a8c4-fc5cf82c2b98",
@@ -285,8 +285,8 @@
       "MusicGenres": ["Afrobeat", "J-Pop", "Swing"],
       "HomeAdress": "Christies gate 94",
       "CarModel": "BMW Z4",
-      "Gift": "Fruktbolle",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "c3154800-8b12-4210-b0dd-c1b324ff1bcd",
@@ -297,8 +297,8 @@
       "MusicGenres": ["Trip-Hop", "Classical", "Salsa"],
       "HomeAdress": "Hans Hauges gate 46",
       "CarModel": "Mercedes-Benz E-Class",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "d413a774-1c65-4b1d-85c0-3ba58615e7b8",
@@ -309,7 +309,7 @@
       "MusicGenres": ["Dubstep", "Country", "Hardcore"],
       "HomeAdress": "Dreggsallmenningen 84",
       "CarModel": "BMW 5 Series",
-      "Gift": "Stekepanne",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -321,8 +321,8 @@
       "MusicGenres": ["Salsa", "Electro", "Techno"],
       "HomeAdress": "Absalon Beyers gate 12",
       "CarModel": "Ford Mustang",
-      "Gift": "Trebil",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "05bac452-3e46-40b2-ae15-cefc2244abca",
@@ -333,8 +333,8 @@
       "MusicGenres": ["Bossa Nova", "Disco", "Ambient"],
       "HomeAdress": "Breist\u00F8len 49",
       "CarModel": "BMW 5 Series",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "54912322-a497-44cb-a026-0e6afaed78ce",
@@ -345,7 +345,7 @@
       "MusicGenres": ["Blues", "J-Pop", "Jazz"],
       "HomeAdress": "Fortunen 103",
       "CarModel": "Honda Civic",
-      "Gift": "Skulptur i metall",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -357,8 +357,8 @@
       "MusicGenres": ["K-Pop", "Disco", "Hardcore"],
       "HomeAdress": "Dreggsallmenningen 8",
       "CarModel": "Hyundai Sonata",
-      "Gift": "Mobil",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "e19de42c-a4cb-46f7-9ac4-48b10ee2d4c9",
@@ -369,8 +369,8 @@
       "MusicGenres": ["Country", "Rock", "Dancehall"],
       "HomeAdress": "Asylplassen 32",
       "CarModel": "Toyota Corolla",
-      "Gift": "Senget\u00F8y",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "3e05584c-067e-464b-b617-fe68fb7ed8bc",
@@ -381,8 +381,8 @@
       "MusicGenres": ["House", "Trip-Hop", "Shoegaze"],
       "HomeAdress": "Asbj\u00F8rnsens gate 138",
       "CarModel": "Honda Accord",
-      "Gift": "Verkt\u00F8ykasse",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "9cb547c0-24e6-420e-a61c-043adae9e2b8",
@@ -393,8 +393,8 @@
       "MusicGenres": ["Soul", "Shoegaze", "Post-Punk"],
       "HomeAdress": "Christies gate 88",
       "CarModel": "Hyundai Elantra",
-      "Gift": "Elektrisk gitar",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "a42b5329-a9d6-455e-aa35-ee308993ef36",
@@ -405,8 +405,8 @@
       "MusicGenres": ["Salsa", "Electronic", "K-Pop"],
       "HomeAdress": "Kaigaten 28",
       "CarModel": "BMW Z4",
-      "Gift": "Dekorasjonspute",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "66efabe0-6c54-413d-a430-cb5d84b8937e",
@@ -417,8 +417,8 @@
       "MusicGenres": ["Trip-Hop", "Electronic", "Reggaeton"],
       "HomeAdress": "B\u00F8hmergaten 138",
       "CarModel": "Chevrolet Spark",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "c01c4d17-de41-4045-990b-8d06954bc95c",
@@ -429,7 +429,7 @@
       "MusicGenres": ["Zouk", "Dubstep", "Shoegaze"],
       "HomeAdress": "All\u00E9gaten 149",
       "CarModel": "Alfa Romeo Giulia",
-      "Gift": "Verkt\u00F8ykasse",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -441,8 +441,8 @@
       "MusicGenres": ["Calypso", "Bluegrass", "Gospel"],
       "HomeAdress": "Bredalsmarken 84",
       "CarModel": "Jaguar XF",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "b43a7e27-f1d2-4a52-9b5d-3361622e6441",
@@ -453,8 +453,8 @@
       "MusicGenres": ["Jazz", "Blues", "House"],
       "HomeAdress": "Fabrikkgaten 4",
       "CarModel": "Nissan Maxima",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "5e930da7-a775-41ca-b136-899371b54967",
@@ -465,8 +465,8 @@
       "MusicGenres": ["Shoegaze", "Trance", "Disco"],
       "HomeAdress": "Bontelabo 21",
       "CarModel": "Mercedes-Benz SLK",
-      "Gift": "Elektrisk gitar",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "a68894da-5dca-4c3c-b282-75e63aba3aba",
@@ -477,8 +477,8 @@
       "MusicGenres": ["Ambient", "Zouk", "Punk"],
       "HomeAdress": "Arbeidergaten 67",
       "CarModel": "Porsche Panamera",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "86089913-0a6f-4a8f-8420-1b620efbc7ff",
@@ -489,8 +489,8 @@
       "MusicGenres": ["Latin", "House", "Opera"],
       "HomeAdress": "Bankgaten 167",
       "CarModel": "Audi A6",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "59c0a905-b6c8-43ec-8ea2-b0e433655c20",
@@ -501,7 +501,7 @@
       "MusicGenres": ["Punk", "Blues", "Reggae"],
       "HomeAdress": "Arnoldus Reimers\u0027 gate 25",
       "CarModel": "Nissan Maxima",
-      "Gift": "Skulptur i metall",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -513,8 +513,8 @@
       "MusicGenres": ["Metal", "Flamenco", "Calypso"],
       "HomeAdress": "Bispengsgaten 35",
       "CarModel": "Kia Stinger",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "a4351b07-8bfd-4953-adbc-33245ee9eac4",
@@ -525,8 +525,8 @@
       "MusicGenres": ["Disco", "Gospel", "House"],
       "HomeAdress": "Abels gate 183",
       "CarModel": "Chevrolet Camaro",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "7fc10c94-e255-49b3-8965-615f5ed211da",
@@ -537,8 +537,8 @@
       "MusicGenres": ["Jazz", "New Wave", "Bluegrass"],
       "HomeAdress": "Arne Garborgs gate 47",
       "CarModel": "Chevrolet Spark",
-      "Gift": "Senget\u00F8y",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "87ebfab0-3d1f-4875-b335-90c51880a694",
@@ -549,8 +549,8 @@
       "MusicGenres": ["Dubstep", "Salsa", "Bluegrass"],
       "HomeAdress": "Asbj\u00F8rnsens gate 67",
       "CarModel": "Ford Focus",
-      "Gift": "Trebil",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "67e24f79-b03c-4670-a1be-1dcc33d44ad1",
@@ -561,8 +561,8 @@
       "MusicGenres": ["Bluegrass", "Bossa Nova", "Rock"],
       "HomeAdress": "Breiviksveien 194",
       "CarModel": "Hyundai Sonata",
-      "Gift": "Trebil",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "108824ea-246b-4863-992d-325b0d24e959",
@@ -573,8 +573,8 @@
       "MusicGenres": ["Soul", "J-Pop", "Merengue"],
       "HomeAdress": "Hans Hauges gate 4",
       "CarModel": "Porsche Panamera",
-      "Gift": "Elektrisk gitar",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "ce53803f-ee3b-450f-8efc-9e401c8ac547",
@@ -585,8 +585,8 @@
       "MusicGenres": ["Techno", "Indie", "Trip-Hop"],
       "HomeAdress": "Blaauws vei 101",
       "CarModel": "Alfa Romeo Giulia",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "5da44d93-72c7-4a7a-b1bc-c9f82385b2d5",
@@ -597,8 +597,8 @@
       "MusicGenres": ["Metal", "Rock", "Shoegaze"],
       "HomeAdress": "Bispengsgaten 134",
       "CarModel": "Chevrolet Camaro",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "97d50e93-6b6b-4f47-b380-2508cedd9bbe",
@@ -609,8 +609,8 @@
       "MusicGenres": ["Folk", "Ska", "Shoegaze"],
       "HomeAdress": "Fabrikkgaten 115",
       "CarModel": "Volvo S60",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "e5552daa-886e-4c49-878d-ce3c5ddc37b8",
@@ -621,8 +621,8 @@
       "MusicGenres": ["Swing", "Jazz", "Flamenco"],
       "HomeAdress": "Finneg\u00E5rdsgaten 79",
       "CarModel": "Mazda3",
-      "Gift": "Dekorasjonspute",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "3f592dfc-302a-4de1-8d1d-a8e151ad060c",
@@ -633,8 +633,8 @@
       "MusicGenres": ["Punk", "Afrobeat", "Ambient"],
       "HomeAdress": "Haugeveien 118",
       "CarModel": "Kia Optima",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "fdaffc30-23da-4125-a6b1-e735e2e64602",
@@ -645,8 +645,8 @@
       "MusicGenres": ["Bluegrass", "Hardcore", "Zouk"],
       "HomeAdress": "Asbj\u00F8rnsens gate 121",
       "CarModel": "Kia Stinger",
-      "Gift": "Dekorasjonspute",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "b18d552c-841a-4760-979e-e00979e17f7d",
@@ -657,7 +657,7 @@
       "MusicGenres": ["Dancehall", "Classical", "Country"],
       "HomeAdress": "Arne Garborgs gate 128",
       "CarModel": "Chevrolet Malibu",
-      "Gift": "Mobil",
+      "Gift": null,
       "Elf": "S\u00F8malven"
     },
     {
@@ -669,8 +669,8 @@
       "MusicGenres": ["Disco", "Trip-Hop", "Folk"],
       "HomeAdress": "Aad Gjelles gate 95",
       "CarModel": "Chevrolet Cruze",
-      "Gift": "Dekorasjonspute",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "37e1fafa-1d65-4bfb-bbe0-f3ecb01bae18",
@@ -681,7 +681,7 @@
       "MusicGenres": ["Gospel", "Shoegaze", "House"],
       "HomeAdress": "Bradbenken 193",
       "CarModel": "Honda Accord",
-      "Gift": "Kj\u00F8kkenforkle",
+      "Gift": null,
       "Elf": "Str\u00F8malven"
     },
     {
@@ -693,8 +693,8 @@
       "MusicGenres": ["Dancehall", "Industrial", "Electronic"],
       "HomeAdress": "Breiviksveien 56",
       "CarModel": "Alfa Romeo Giulia",
-      "Gift": "Vase",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "9b13cdfd-249d-47c7-bc38-935641ac6796",
@@ -705,8 +705,8 @@
       "MusicGenres": ["Electronic", "World Music", "Soul"],
       "HomeAdress": "Absalon Beyers gate 198",
       "CarModel": "Mercedes-Benz C-Class",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "1dd175f8-1c1a-4323-a8b2-931280d0852a",
@@ -717,8 +717,8 @@
       "MusicGenres": ["Soul", "World Music", "Reggaeton"],
       "HomeAdress": "Bryggen 7",
       "CarModel": "BMW 3 Series",
-      "Gift": "Mobil",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "9dc949ae-9a7e-4eb1-9541-b9dbdf411fbc",
@@ -729,8 +729,8 @@
       "MusicGenres": ["Merengue", "K-Pop", "House"],
       "HomeAdress": "Damsg\u00E5rdsveien 35",
       "CarModel": "Honda Fit",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "a8d9f4a3-20c6-4e5c-b2db-5b82504e3206",
@@ -741,8 +741,8 @@
       "MusicGenres": ["Techno", "R\u0026B", "Latin"],
       "HomeAdress": "Arne Garborgs gate 153",
       "CarModel": "Volkswagen Jetta",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "74210b3e-fdc4-4645-8771-e069901bd6c2",
@@ -753,8 +753,8 @@
       "MusicGenres": ["World Music", "Jazz", "Latin"],
       "HomeAdress": "Kaigaten 86",
       "CarModel": "Chevrolet Spark",
-      "Gift": "Kj\u00F8kkenforkle",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "4329f7d1-f208-43e8-803e-bb0e7486648a",
@@ -765,8 +765,8 @@
       "MusicGenres": ["Industrial", "Gospel", "Swing"],
       "HomeAdress": "Fabrikkgaten 179",
       "CarModel": "Audi A4",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "0931a0bf-1c9f-426f-91d2-c55e2f9d3332",
@@ -777,8 +777,8 @@
       "MusicGenres": ["Gospel", "Hip Hop", "Grunge"],
       "HomeAdress": "Asbj\u00F8rnsens gate 86",
       "CarModel": "Toyota Yaris",
-      "Gift": "Trebil",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "3ae8449a-b97b-43b8-b5fe-9adf1a1453fe",
@@ -789,8 +789,8 @@
       "MusicGenres": ["Reggae", "Industrial", "Techno"],
       "HomeAdress": "Asbj\u00F8rnsens gate 183",
       "CarModel": "Ford Fiesta",
-      "Gift": "Trebil",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "ca10081f-0a1a-4793-b089-87fe8629cb01",
@@ -801,7 +801,7 @@
       "MusicGenres": ["Afrobeat", "Ambient", "Jazz"],
       "HomeAdress": "Christian Michelsens gate 173",
       "CarModel": "Ford Fiesta",
-      "Gift": "Senget\u00F8y",
+      "Gift": null,
       "Elf": "Str\u00F8malven"
     },
     {
@@ -813,8 +813,8 @@
       "MusicGenres": ["Zouk", "Classical", "Country"],
       "HomeAdress": "Allehelgens gate 44",
       "CarModel": "Mercedes-Benz C-Class",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "93ec78d7-d391-4a2f-96ab-9cddefb35b75",
@@ -825,8 +825,8 @@
       "MusicGenres": ["Punk", "Dancehall", "Reggae"],
       "HomeAdress": "Adolph Bergs vei 27",
       "CarModel": "Toyota Supra",
-      "Gift": "Gyngehest",
-      "Elf": "Trealven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "29f19ff1-0e24-4c28-a8a8-67792b1fa75d",
@@ -837,8 +837,8 @@
       "MusicGenres": ["House", "Opera", "Soul"],
       "HomeAdress": "Allehelgens gate 2",
       "CarModel": "Volkswagen Passat",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "7bf7643d-e9a2-4909-91fa-8baad7617a40",
@@ -849,7 +849,7 @@
       "MusicGenres": ["Ska", "Grunge", "Opera"],
       "HomeAdress": "Christian Michelsens gate 6",
       "CarModel": "Mazda MX-5 Miata",
-      "Gift": "Stekepanne",
+      "Gift": null,
       "Elf": "Smiealven"
     },
     {
@@ -861,8 +861,8 @@
       "MusicGenres": ["Soul", "J-Pop", "Ambient"],
       "HomeAdress": "Adolph Bergs vei 72",
       "CarModel": "Toyota Supra",
-      "Gift": "Elektrisk gitar",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "e3b7b580-be4c-41b0-876c-55e805ed1c0f",
@@ -873,8 +873,8 @@
       "MusicGenres": ["Swing", "Ska", "Funk"],
       "HomeAdress": "Bankgaten 137",
       "CarModel": "Ford Mustang",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "8c2d2800-2aba-47df-9096-fca900d4f601",
@@ -885,8 +885,8 @@
       "MusicGenres": ["Ambient", "Pop", "Jazz"],
       "HomeAdress": "Allehelgens gate 49",
       "CarModel": "BMW Z4",
-      "Gift": "Keyboard",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "226d0038-409a-41f5-8122-9bc31795aa44",
@@ -897,8 +897,8 @@
       "MusicGenres": ["Shoegaze", "Metal", "Soul"],
       "HomeAdress": "Hollendergaten 45",
       "CarModel": "Chevrolet Cruze",
-      "Gift": "Keyboard",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "fe866cb3-e71a-44d3-85e0-99ed80c2878e",
@@ -909,8 +909,8 @@
       "MusicGenres": ["Swing", "Ska", "Merengue"],
       "HomeAdress": "C. Sundts gate 181",
       "CarModel": "Audi TT",
-      "Gift": "Vase",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "c1cd4323-f9c0-4481-8fbb-cd942818863b",
@@ -921,8 +921,8 @@
       "MusicGenres": ["Reggaeton", "Bossa Nova", "Grunge"],
       "HomeAdress": "Fabrikkgaten 64",
       "CarModel": "Mazda3",
-      "Gift": "Mobil",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "d61e94ac-9ed4-4fb4-b565-406c09974b9f",
@@ -933,8 +933,8 @@
       "MusicGenres": ["Merengue", "Folk", "Punk"],
       "HomeAdress": "Breiviksveien 162",
       "CarModel": "Honda Civic",
-      "Gift": "Mobil",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "6972c158-852b-42cf-a633-80ef4d273f1c",
@@ -945,8 +945,8 @@
       "MusicGenres": ["Trance", "Country", "Opera"],
       "HomeAdress": "Allehelgens gate 143",
       "CarModel": "Chrysler 300",
-      "Gift": "Elektrisk gitar",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "12971dac-1121-4951-8ba1-438ae0209a03",
@@ -957,8 +957,8 @@
       "MusicGenres": ["Afrobeat", "Punk", "Flamenco"],
       "HomeAdress": "Armauer Hansens vei 27",
       "CarModel": "BMW 5 Series",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "7908b196-7ab3-417c-9a56-2f9cce53dad6",
@@ -969,8 +969,8 @@
       "MusicGenres": ["Synthpop", "Opera", "Jazz"],
       "HomeAdress": "Engen 113",
       "CarModel": "BMW 3 Series",
-      "Gift": "Dekorasjonspute",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Smiealven"
     },
     {
       "Id": "99ec6260-c2ec-4f51-a359-21ded8b2cdfc",
@@ -981,8 +981,8 @@
       "MusicGenres": ["Bluegrass", "K-Pop", "Funk"],
       "HomeAdress": "Arbeidergaten 75",
       "CarModel": "Audi A4",
-      "Gift": "Senget\u00F8y",
-      "Elf": "Str\u00F8malven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "42bb64a3-b245-4db5-90a8-ecc61657c481",
@@ -993,8 +993,8 @@
       "MusicGenres": ["Bluegrass", "Classical", "Shoegaze"],
       "HomeAdress": "Kirkegaten 177",
       "CarModel": "Ford Focus",
-      "Gift": "Skulptur i metall",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "Trealven"
     },
     {
       "Id": "c28e7631-3b68-4ebd-92cc-759ebf0295fb",
@@ -1005,8 +1005,8 @@
       "MusicGenres": ["Ska", "Gospel", "Indie"],
       "HomeAdress": "Abels gate 53",
       "CarModel": "Chevrolet Impala",
-      "Gift": "Kaffekrus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "a4735891-4a35-4798-8697-d81b29f12866",
@@ -1017,7 +1017,7 @@
       "MusicGenres": ["Rock", "Post-Punk", "Grunge"],
       "HomeAdress": "Bryggen 101",
       "CarModel": "Hyundai Veloster",
-      "Gift": "Senget\u00F8y",
+      "Gift": null,
       "Elf": "Str\u00F8malven"
     },
     {
@@ -1029,8 +1029,8 @@
       "MusicGenres": ["Hip Hop", "Synthpop", "Punk"],
       "HomeAdress": "Astrups vei 72",
       "CarModel": "Kia Forte",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "884a51b6-3656-451d-8701-f3028e8696ed",
@@ -1041,8 +1041,8 @@
       "MusicGenres": ["Indie", "Reggaeton", "Dubstep"],
       "HomeAdress": "Dreggsallmenningen 114",
       "CarModel": "Volkswagen Passat",
-      "Gift": "Verkt\u00F8ykasse",
-      "Elf": "Smiealven"
+      "Gift": null,
+      "Elf": "S\u00F8malven"
     },
     {
       "Id": "1b83528f-1ffe-4dd3-a7bc-d1f696778ac7",
@@ -1053,8 +1053,8 @@
       "MusicGenres": ["Ska", "Salsa", "Techno"],
       "HomeAdress": "Arbeidergaten 140",
       "CarModel": "Nissan Maxima",
-      "Gift": "Keyboard",
-      "Elf": "S\u00F8malven"
+      "Gift": null,
+      "Elf": "Str\u00F8malven"
     },
     {
       "Id": "81cd46f2-c02a-4fdf-b4fa-a0ade8bd0b81",
@@ -1065,8 +1065,8 @@
       "MusicGenres": ["Indie", "Ska", "Post-Punk"],
       "HomeAdress": "Breist\u00F8len 62",
       "CarModel": "Ford Fiesta",
-      "Gift": "Dekorasjonshus",
-      "Elf": "Keramikkalven"
+      "Gift": null,
+      "Elf": "Smiealven"
     }
   ],
   "BadUser": [
@@ -1127,7 +1127,7 @@
       "MusicGenres": ["K-Pop", "Industrial", "Gospel"],
       "HomeAdress": "All\u00E9gaten 39",
       "CarModel": "Ford Mustang",
-      "Gift": "Gryla",
+      "Gift": "Kull",
       "Elf": null
     },
     {
@@ -1187,7 +1187,7 @@
       "MusicGenres": ["Industrial", "Latin", "Afrobeat"],
       "HomeAdress": "Asylplassen 89",
       "CarModel": "Honda Fit",
-      "Gift": "Kull",
+      "Gift": "Gryla",
       "Elf": null
     },
     {
