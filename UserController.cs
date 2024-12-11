@@ -71,8 +71,8 @@ namespace Nisse_oppgave
         foreach (var item in goodAndBadUsers.BadUser)
         {
             
-            int chance = random.Next(0,100);
-            if (chance < 10) {
+            int chance = random.Next(0,10);
+            if (chance == 0) {
                 Console.WriteLine(item.Name + " ble tatt av Gryla!");
                 item.Gift = "Gryla";
 
@@ -86,33 +86,39 @@ namespace Nisse_oppgave
 
         foreach (var item in goodAndBadUsers.GoodUser)
         {
-         int chance = random.Next(0,10);
+         int chance = random.Next(0,4);
+         ElfGift elfGift = new ElfGift();
          switch (chance)
          {
             case 0:
-            case 1:
                 Console.WriteLine(item.Name + " får gave av trealven.");
                 item.Elf = "Trealven";
+                elfGift.GetGift("WoodWorking");
+                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
-            case 2:
-            case 3:
+            case 1:
                 Console.WriteLine(item.Name + " får gave av sømalven.");
                 item.Elf = "Sømalven";
+                elfGift.GetGift("Sewing");
+                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
-            case 4:
-            case 5:
+            case 2:
                 Console.WriteLine(item.Name + " får gave av strømalven.");
                 item.Elf = "Strømalven";
+                elfGift.GetGift("Electronics");
+                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
-            case 6:
-            case 7:
+            case 3:
                 Console.WriteLine(item.Name + " får gave av smiealven.");
                 item.Elf = "Smiealven";
+                elfGift.GetGift("Smithing");
+                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
-            case 8:
-            case 9:
+            case 4:
                 Console.WriteLine(item.Name + " får gave av keramikkalven.");
                 item.Elf = "Keramikkalven";
+                elfGift.GetGift("Ceramics");
+                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
             default:
                 break;
