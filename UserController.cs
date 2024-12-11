@@ -36,6 +36,7 @@ namespace Nisse_oppgave
                 {
                     if(GoodMusicList.Contains(item)){
                         score += 1;
+                        break;
                     }
                     
                 }

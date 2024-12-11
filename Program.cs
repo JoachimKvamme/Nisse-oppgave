@@ -60,6 +60,8 @@ class Program
 
         string json = JsonSerializer.Serialize(goodAndBadUsers);
         File.WriteAllText("finished_list.json", json);
+        Console.WriteLine(goodAndBadUsers.BadUser.Count());
+        Console.WriteLine(goodAndBadUsers.GoodUser.Count());
 
     }
 
