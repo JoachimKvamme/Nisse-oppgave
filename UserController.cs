@@ -93,27 +93,22 @@ namespace Nisse_oppgave
             case 0:
                 Console.WriteLine(item.Name + " får gave av trealven.");
                 item.Elf = "Trealven";
-                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
             case 1:
                 Console.WriteLine(item.Name + " får gave av sømalven.");
                 item.Elf = "Sømalven";
-                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
             case 2:
                 Console.WriteLine(item.Name + " får gave av strømalven.");
                 item.Elf = "Strømalven";
-                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
             case 3:
                 Console.WriteLine(item.Name + " får gave av smiealven.");
                 item.Elf = "Smiealven";
-                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
             case 4:
                 Console.WriteLine(item.Name + " får gave av keramikkalven.");
                 item.Elf = "Keramikkalven";
-                Console.WriteLine($"{item.Name} fikk {item.Gift}");
                 break;
             default:
                 break;
