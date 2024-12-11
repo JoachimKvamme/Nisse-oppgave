@@ -1,6 +1,6 @@
 # Om dette prosjektet
 
-Dette er et gruppeprosjekt vi fikk opp mot jul der vi skal lage et program som fordeler tilefeldig genererte personer inn i to lister (snill og slem) ut i fra egenskapene deres. Videre skal de på den snille listen få tildelt en alv og en gave basert på alvens egenskap, mens de slemme bare får kull (med en 10% sjanse for å bli spist av Gryla på julekvelden).
+Dette er et gruppeprosjekt vi fikk opp mot jul der vi skal lage et program som fordeler tilfeldig genererte personer inn i to lister (snill og slem) ut i fra egenskapene deres. Videre skal de på den snille listen få tildelt en alv og en gave basert på alvens egenskap, mens de slemme bare får kull (med en 10% sjanse for å bli spist av Gryla på julekvelden).
 
 ## Design
 
