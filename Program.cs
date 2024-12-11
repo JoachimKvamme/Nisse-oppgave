@@ -9,6 +9,15 @@ class Program
     {
         Console.WriteLine("Hello, World!");
 
+        Dictionary<string, List<string>> elfDictionary = new();
+        elfDictionary["Trealven"] = new List<string> {"Trebil", "Gyngehest", "Fruktbolle"}; 
+        elfDictionary["Sømalven"] = new List<string> {"Keyboard", "Mobil", "Elektrisk gitar"}; 
+        elfDictionary["Strømalven"] = new List<string> {"Kjøkkenforkle", "Sengetøy", "Dekorasjonspute"}; 
+        elfDictionary["Smiealven"] = new List<string> {"Stekepanne", "Verktøykasse", "Skulptur i metall"}; 
+        elfDictionary["Keramikkalven"] = new List<string> {"Kaffekrus", "Vase", "Dekorasjonshus"}; 
+
+
+
         UserController userController = new UserController();
         userController.GoodCarList = ["Ford Fiesta", "Volkswagen Golf", "Toyota Corolla", "Honda Civic", "Chevrolet Cruze",
         "BMW 3 Series", "Audi A4", "Mercedes-Benz C-Class", "Hyundai Elantra", "Nissan Altima",
@@ -47,6 +56,7 @@ class Program
 
 
         userController.Gift(goodAndBadUsers);
+        userController.GetGift(goodAndBadUsers.GoodUser, elfDictionary);
 
         string json = JsonSerializer.Serialize(goodAndBadUsers);
         File.WriteAllText("finished_list.json", json);

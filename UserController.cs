@@ -119,7 +119,24 @@ namespace Nisse_oppgave
          }   
         }
 
+        
+
         return goodAndBadUsers;
     }
+
+public void GetGift(List<UserInfo> goodUsers,  Dictionary<string, List<string>> elves)
+        {
+            
+            foreach (var user in goodUsers)
+            {
+                Random random = new Random();
+                int i = random.Next(0,3);
+                string gift = elves[user.Elf][i];
+                user.Gift = gift;
+                Console.WriteLine(user.Name + $" fikk {gift}");
+            }
+        
+        }
+
 }}
    
