@@ -87,7 +87,7 @@ namespace Nisse_oppgave
 
         foreach (var item in goodAndBadUsers.GoodUser)
         {
-         int chance = random.Next(0,4);
+         int chance = random.Next(0,5);
          switch (chance)
          {
             case 0:
