@@ -28,9 +28,6 @@ namespace Nisse_oppgave
                 if(GoodCarList.Contains(user.CarModel)) {
                     score += 1;
                 }
-                // if(GoodMusicList.Contains(user.MusicGenres)){
-
-                // }
 
                 foreach (var item in user.MusicGenres)
                 {
