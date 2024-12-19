@@ -4,8 +4,20 @@ Dette er et gruppeprosjekt vi fikk opp mot jul der vi skal lage et program som f
 
 ## Design
 
-![FLowChart](system_design.png)
+# Versjon 1
+
+![Design](./Documentation/system_design.png)
 Diagrammet er laget av Oliver, som senere gikk over til en annen gruppe siden gruppen vår tydeligvis var for sterk
+
+# Versjon 2
+
+![Design-V2](./Documentation/SantaList_design.png)
+Nytt diagram laget og lagt til etter presentasjonen, laget av Katrine. Vi fikk beskjed om at vi burde legge til et oppdatert design siden vi gjorde noen endringer i hvordan vi har lagt opp koden og det gamle designet ikke lenger reflekterer hvordan koden er satt opp. Det nye diagrammet viser at vi gikk bort i fra å ha en modell for alver, og heller brukte en Dictionary.
+
+Diagrammet har to deler:
+
+- Den første delen er for å vise hvilke sekvens med steg programmet går gjennom.
+- Den andre delen viser en litt mer detaljert sekvens med steg for kontrolleren, der den deler inn personer i lister og tildeler alver og gaver eller kull og Gryla.
 
 ## Om Samarbeidet vårt
 
