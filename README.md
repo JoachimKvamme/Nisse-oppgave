@@ -4,12 +4,12 @@ Dette er et gruppeprosjekt vi fikk opp mot jul der vi skal lage et program som f
 
 ## Design
 
-# Versjon 1
+### Versjon 1
 
 ![Design](./Documentation/system_design.png)
 Diagrammet er laget av Oliver, som senere gikk over til en annen gruppe siden gruppen vår tydeligvis var for sterk
 
-# Versjon 2
+### Versjon 2
 
 ![Design-V2](./Documentation/SantaList_design.png)
 Nytt diagram laget og lagt til etter presentasjonen, laget av Katrine. Vi fikk beskjed om at vi burde legge til et oppdatert design siden vi gjorde noen endringer i hvordan vi har lagt opp koden og det gamle designet ikke lenger reflekterer hvordan koden er satt opp. Det nye diagrammet viser at vi gikk bort i fra å ha en modell for alver, og heller brukte en Dictionary.
